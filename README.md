@@ -1,1 +1,3 @@
-# Movies-ETL.
+# Movies-ETL
+
+Welcome! In this project we created an automated pipeline to transform new data and load it into our Amazing Prime tables for further analysis. To get us started, we analyzed three different datasets, Wikipedia data, Kaggle metadata, and the MovieLens rating data. We took this data and performed our ETL (Extract, Transform, Load) process to firstly organize the data into more readable/useable formats, and then (because these are large data types) upload them into our PostgreSQL database where we can make easier (and quicker) sense of our data. This pipeline code we created will make it easy for Amazing Prime to make sense of new data in the future!
